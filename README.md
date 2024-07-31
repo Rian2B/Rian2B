@@ -1,4 +1,4 @@
-### Boas Vindas ao meu perfil 🌻
+_### Boas Vindas ao meu perfil 🌻_
 
 Meu nome é _**Rian Felipe**_
 * Estou estudando na [Alura](https://www.alura.com.br/)
