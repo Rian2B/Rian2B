@@ -4,10 +4,6 @@ Meu nome é _**Rian Felipe**_
 * Estou estudando na [Alura](https://www.alura.com.br/)
 * Amo animes e adoro ouvir música
 
- ***Você pode entrar em contato comigo*** 📫
-
- 00001247461257sp@al.educacao.sp.gov.br
-
  ![](https://media1.tenor.com/m/hO-SxRtFfmEAAAAd/hanako-yay.gif)
 
 -----------------------------------------------------------------
